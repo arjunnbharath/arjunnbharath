@@ -1,3 +1,4 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm ARJUN BHARATH</h1>
 <h3 align="center">A Software developer from India</h3>
 
@@ -19,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbharath007&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=Arjunbharath007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
