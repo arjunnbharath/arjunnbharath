@@ -4,18 +4,19 @@
 </div>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hi 👋, I'm ARJUN BHARATH </h1>
-<h3 align="center">A Software developer from India</h3>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ 𝙰𝚁𝙹𝚄𝙽 𝙱𝙷𝙰𝚁𝙰𝚃𝙷</h1>
+<h3 align="center">ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3>
 <p align="center">ᴛᴏ ᴘᴜʀꜱᴜᴇ ᴀ ᴊᴏʙ ᴏᴘᴘᴏʀᴛᴜɴɪᴛʏ ɪɴ ᴀ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴛʜᴀᴛ ᴡɪʟʟ ᴄʜᴀʟʟᴇɴɢᴇ ᴍᴇ ᴛᴏ ᴘᴜꜱʜ ᴍʏ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴀɴᴅ ᴇxᴘᴀɴᴅ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ᴛʜᴇ ꜰɪᴇʟᴅ ᴏꜰ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴡʜɪʟᴇ ᴀʟʟᴏᴡɪɴɢ ᴍᴇ ᴛᴏ ᴀᴅᴅ ᴠᴀʟᴜᴇ ᴛᴏ ᴛʜᴇ ᴅʏɴᴀᴍɪᴄꜱ ᴏꜰ ᴛʜᴇ ᴄᴏᴍᴘᴀɴ</p>
-<p align="center"> 
+<p align="center"> <br>
 
-  
+
 - 💬 Ask me about **HTML,CSS,JAVA**
 
 - 📫 How to reach me **arjun200118bharath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-bharath-99150422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-bharath-99150422a/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arjun200118bhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjun200118bhar1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjun_bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_bharath" height="30" width="40" /></a>
 </p>
