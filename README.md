@@ -1,7 +1,6 @@
-[![MasterHead]()
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hi 👋, I'm ARJUN BHARATH</h1>
+<h1 align="center">Hi 👋, I'm <img  src=""></h1>
 <h3 align="center">A Software developer from India</h3>
 <p align="center">ᴛᴏ ᴘᴜʀꜱᴜᴇ ᴀ ᴊᴏʙ ᴏᴘᴘᴏʀᴛᴜɴɪᴛʏ ɪɴ ᴀ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴛʜᴀᴛ ᴡɪʟʟ ᴄʜᴀʟʟᴇɴɢᴇ ᴍᴇ ᴛᴏ ᴘᴜꜱʜ ᴍʏ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴀɴᴅ ᴇxᴘᴀɴᴅ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ᴛʜᴇ ꜰɪᴇʟᴅ ᴏꜰ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴡʜɪʟᴇ ᴀʟʟᴏᴡɪɴɢ ᴍᴇ ᴛᴏ ᴀᴅᴅ ᴠᴀʟᴜᴇ ᴛᴏ ᴛʜᴇ ᴅʏɴᴀᴍɪᴄꜱ ᴏꜰ ᴛʜᴇ ᴄᴏᴍᴘᴀɴ</p>
 <p align="center"> 
