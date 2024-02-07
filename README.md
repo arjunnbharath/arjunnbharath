@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arjunbharath007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arjunbharath007&theme=tokyonight&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbharath007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arjunbharath007&theme=tokyonight&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbharath007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/> [![](https://visitcount.itsvg.in/api?id=Arjunbharath007&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![]()
@@ -41,10 +41,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arjunbharath007&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Arjunbharath007&icon=1&color=3)](https://visitcount.itsvg.in)
-<div style="position: fixed; top: 0; left: 0; width: 100%; display: flex; justify-content: center; align-items: flex-start; z-index: 9999;">
-  <img src="dd-ezgif.com-video-to-gif-converter.gif" alt="Animated GIF" style=" height: 00PX; width: 1200px">
-</div>
+
+
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
