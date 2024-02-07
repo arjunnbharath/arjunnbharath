@@ -29,9 +29,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbharath007&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-
-
+![]()
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<BR>
 ![](https://github-contributor-stats.vercel.app/api?username=Arjunbharath007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<BR>
 [![](https://visitcount.itsvg.in/api?id=Arjunbharath007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
