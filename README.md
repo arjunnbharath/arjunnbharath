@@ -43,19 +43,7 @@
 
 
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Arjunbharath007&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Arjunbharath007/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Arjunbharath007&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Arjunbharath007/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Arjunbharath007&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Arjunbharath007/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Arjunbharath007&repo=Arjunbharath007&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Arjunbharath007/Arjunbharath007)
-
-<p align="left">
-  <a href="https://github.com/Arjunbharath007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
+## 📔 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Arjunbharath007">
