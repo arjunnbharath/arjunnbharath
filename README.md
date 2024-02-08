@@ -24,7 +24,7 @@
 📚 Lifelong Learner: I'm always exploring new technologies, frameworks, and best practices to stay updated with the latest trends in software development.<br>
 <br>
 <h2>What You'll Find Here</h2> 
-🛠️ Java Projects: Explore my repositories to find a variety of Java projects, including backend APIs, web applications, libraries, and utilities.<br>
+🛠️ Java Projects: Explore my repositories to find a variety of Java projects.<br>
 <br>
 📝 Code Samples: Check out my code samples and snippets to see examples of clean, well-documented, and efficient Java code.<br>
 <br>
