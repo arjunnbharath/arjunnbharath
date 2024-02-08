@@ -7,15 +7,24 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ ᴀʀᴊᴜɴ ʙʜᴀʀᴀᴛʜ</h1>
 <h3 align="center">ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3>
-<p align="center">ᴛᴏ ᴘᴜʀꜱᴜᴇ ᴀ ᴊᴏʙ ᴏᴘᴘᴏʀᴛᴜɴɪᴛʏ ɪɴ ᴀ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴛʜᴀᴛ ᴡɪʟʟ ᴄʜᴀʟʟᴇɴɢᴇ ᴍᴇ ᴛᴏ ᴘᴜꜱʜ ᴍʏ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴀɴᴅ ᴇxᴘᴀɴᴅ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ᴛʜᴇ ꜰɪᴇʟᴅ ᴏꜰ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴡʜɪʟᴇ ᴀʟʟᴏᴡɪɴɢ ᴍᴇ ᴛᴏ ᴀᴅᴅ ᴠᴀʟᴜᴇ ᴛᴏ ᴛʜᴇ ᴅʏɴᴀᴍɪᴄꜱ ᴏꜰ ᴛʜᴇ ᴄᴏᴍᴘᴀɴ</p>
+<p align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴇxᴘᴇʀᴛɪꜱᴇ ɪɴ ᴊᴀᴠᴀ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ. ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴀɴᴅ ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪ'ᴍ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛɪɴɢ ʜɪɢʜ-Qᴜᴀʟɪᴛʏ, ᴇꜰꜰɪᴄɪᴇɴᴛ, ᴀɴᴅ ꜱᴄᴀʟᴀʙʟᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ.</p>
 <p align="center"> <br>
 
 
 - 💬 Ask me about **HTML,CSS,JAVA**
 
 - 📫 How to reach me **arjun200118bharath@gmail.com**
+<h2>About Me</h2> 
+💻 Software Developer: I specialize in Java development, with a keen interest in building robust backend systems, web applications, and enterprise solutions.<br>
+🎓 Computer Science Enthusiast: I hold a degree in Computer Science and continuously strive to expand my knowledge and skills in software engineering.<br>
+🌟 Open Source Contributor: I actively contribute to open-source projects and believe in the power of collaboration and community-driven development.<br>
+📚 Lifelong Learner: I'm always exploring new technologies, frameworks, and best practices to stay updated with the latest trends in software development.<br>
+<h2>What You'll Find Here</h2> 
+🛠️ Java Projects: Explore my repositories to find a variety of Java projects, including backend APIs, web applications, libraries, and utilities.<br>
+📝 Code Samples: Check out my code samples and snippets to see examples of clean, well-documented, and efficient Java code.<br>
+📦 Contributions: Discover my contributions to open-source projects, bug fixes, feature enhancements, and more<br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/arjun-bharath-99150422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-bharath-99150422a/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/arjun200118bhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjun200118bhar1" height="30" width="40" /></a>
