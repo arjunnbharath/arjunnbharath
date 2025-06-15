@@ -7,17 +7,37 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h3 align="center">I am Arjun Bharath SR​</h3>
-<h3 align="center">​ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ​</h3>
-<p align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴇxᴘᴇʀᴛɪꜱᴇ ɪɴ ᴊᴀᴠᴀ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ. ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴀɴᴅ ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪ'ᴍ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛɪɴɢ ʜɪɢʜ-Qᴜᴀʟɪᴛʏ, ᴇꜰꜰɪᴄɪᴇɴᴛ, ᴀɴᴅ ꜱᴄᴀʟᴀʙʟᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ.</p>
- <p align="center">💻 <strong>Full-Stack Developer</strong> | 🧠 Tech Explorer | 🌍 Open Source Enthusiast</p>
-<p align="center"> <br>
+<div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
+  <h1 style="margin: 0;">Hi 👋, I'm Arjun Bharath S R</h1>
+</div>
+<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 
-- 💬 Ask me about **HTML,CSS,JAVA,SALESFORCE,PYTHON**
+<p align="center">
+💻 Software Engineer | 🌱 Lifelong Learner | 🌐 Open Source Contributor  
+</p>
 
-- 📫 How to reach me **arjun200118bharath@gmail.com**
-<!-- GitHub Profile README Section -->
+<p align="center">
+I’m a dedicated developer with a strong foundation in Computer Science and real-world experience building scalable, efficient software solutions. My primary focus is Java and Python development, along with crafting seamless front-end interfaces using HTML and CSS. I'm also skilled in Salesforce (Apex/LWC) and passionate about clean code, automation, and system design.
+</p>
+
+---
+
+### 🔧 Tech Focus
+
+- 🧠 **Languages**: Java, Python, JavaScript, HTML, CSS  
+- ⚙️ **Frameworks & Tools**: Salesforce (Apex, LWC), Maven, Git, VS Code  
+- 🌐 **Interests**: Web development, API design, system architecture, open source  
+
+---
+
+### 💬 Ask Me About
+
++ HTML/CSS
++ Java Development
++ Salesforce (Apex & LWC)
++ Python Scripting
++ Backend System Design
 
  
 </p>
@@ -37,7 +57,15 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,salesforce,html,css,javascript,git,github,maven,vscode,linux" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
