@@ -101,11 +101,6 @@
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
-## 🐍 Snake Animation
-
-<div align="center">
-  <img src="github-contribution-grid-snake" alt="Animated GIF" style=" height: 00PX; width: 1200px">
-</div>
 
 
 
