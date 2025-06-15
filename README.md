@@ -8,12 +8,12 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
-  <h1 style="margin: 0;">Hi 👋, I'm Arjun Bharath S R</h1>
+  <h1 style="margin: 0;">ʜɪ👋 ɪ'ᴍ ᴀʀᴊᴜɴ ʙʜᴀʀᴀᴛʜ s ʀ</h1>
 </div>
 <h3 align="center">Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-💻 Developer | Lifelong Learner | 🌐 Open Source Contributor  
+💻 Software Engineer | 🚀 Problem Solver | 🛠️ Tech Enthusiast
 </p>
 
 <p align="center">
