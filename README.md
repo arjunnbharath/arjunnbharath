@@ -101,17 +101,12 @@
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
-## 🐍 My Contributions
+## 🐍 Snake Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunnbharath/arjunnbharath/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunnbharath/arjunnbharath/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arjunnbharath/arjunnbharath/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="github-contribution-grid-snake" alt="Animated GIF" style=" height: 00PX; width: 1200px">
 </div>
 
-<hr>
 
 
 
