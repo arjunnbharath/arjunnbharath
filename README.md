@@ -10,35 +10,74 @@
 <h3 align="center">I am Arjun Bharath SR​</h3>
 <h3 align="center">​ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ​</h3>
 <p align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴇxᴘᴇʀᴛɪꜱᴇ ɪɴ ᴊᴀᴠᴀ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ. ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴀɴᴅ ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪ'ᴍ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛɪɴɢ ʜɪɢʜ-Qᴜᴀʟɪᴛʏ, ᴇꜰꜰɪᴄɪᴇɴᴛ, ᴀɴᴅ ꜱᴄᴀʟᴀʙʟᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ.</p>
+ <p align="center">💻 <strong>Full-Stack Developer</strong> | 🧠 Tech Explorer | 🌍 Open Source Enthusiast</p>
 <p align="center"> <br>
 
 
-- 💬 Ask me about **HTML,CSS,JAVA,SALESFORCE**
+- 💬 Ask me about **HTML,CSS,JAVA,SALESFORCE,PYTHON**
 
 - 📫 How to reach me **arjun200118bharath@gmail.com**
-<h2>About Me</h2> 
-💻 Software Developer: I specialize in Java development, with a keen interest in building robust backend systems, web applications, and enterprise solutions.<br>
-<br>
-🎓 Computer Science Enthusiast: I hold a degree in Computer Science and continuously strive to expand my knowledge and skills in software engineering.<br>
-<br>
-🌟 Open Source Contributor: I actively contribute to open-source projects and believe in the power of collaboration and community-driven development.<br>
-<br>
-📚 Lifelong Learner: I'm always exploring new technologies, frameworks, and best practices to stay updated with the latest trends in software development.<br>
-<br>
-<h2>What You'll Find Here</h2> 
-🛠️ Java Projects: Explore my repositories to find a variety of Java projects.<br>
-<br>
-📝 Code Samples: Check out my code samples and snippets to see examples of clean, well-documented, and efficient Java code.<br>
-<br>
-📦 Contributions: Discover my contributions to open-source projects, bug fixes, feature enhancements, and more<br>
+<!-- GitHub Profile README Section -->
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arjun-bharath-99150422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-bharath-99150422a/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/arjun200118bhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjun200118bhar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjun_bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_bharath" height="30" width="40" /></a><br>
  
- <h1></h1>
+</p>
+
+---
+
+## 🧩 About Me
+
+- 🧠 Experienced in <strong>Java, Python, Salesforce (Apex/LWC), HTML, and CSS</strong>
+- 🎓 Computer Science graduate with a strong foundation in software engineering
+- 🛠️ Building robust backend systems, scalable APIs, and user-friendly web apps
+- 💡 Passionate about clean code, best practices, and continuous learning
+- 🌟 Actively contributing to the open-source community
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,salesforce,html,css,javascript,git,github,maven,vscode,linux" alt="Tech Stack" />
+</p>
+
+---
+
+## 📌 What You'll Find Here
+
+✅ <strong>Java & Python Projects</strong> – Backend tools, APIs, data processing  
+✅ <strong>Web Dev Work</strong> – Clean, responsive UIs with HTML/CSS  
+✅ <strong>Salesforce</strong> – Apex classes, triggers, and LWC components  
+✅ <strong>Open Source Contributions</strong> – Bug fixes, features & code reviews  
+✅ <strong>Code Snippets</strong> – Well-structured and reusable pieces of logic  
+
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:your-arjun200118bharath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-bharath-99150422a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/arjunnbharath">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/arjun200118bhar1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
+  </a>
+  <a href="https://www.leetcode.com/arjun_bharath">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  </a>
+  <a href="https://discord.com/users/its.me.arjun">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
 
 
