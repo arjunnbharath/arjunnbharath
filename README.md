@@ -102,6 +102,9 @@
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
 
+<div align="center">
+  <img src="213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="GitHub Contribution GIF" style="width: 200px; height: auto;" />
+</div>
 
 
 
