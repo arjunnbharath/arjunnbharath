@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-I’m a dedicated developer with a strong foundation in Computer Science and real-world experience building scalable, efficient software solutions. My primary focus is Java and Python development, along with crafting seamless front-end interfaces using HTML and CSS. I'm also skilled in Salesforce (Apex/LWC) and passionate about clean code, automation, and system design.
+I’m a software developer with a solid Computer Science background and hands-on experience building scalable and efficient solutions. I specialize in Java and Python, with front-end skills in HTML and CSS, and extensive experience in Salesforce — including Apex, LWC, Marketing Cloud, B2C, and Admin functionalities. I’m passionate about clean code, automation, and system design.
 </p>
 
 ---
@@ -26,7 +26,7 @@ I’m a dedicated developer with a strong foundation in Computer Science and rea
 ### 🔧 Tech Focus
 
 - 🧠 **Languages**: Java, Python, JavaScript, HTML, CSS  
-- ⚙️ **Frameworks & Tools**: Salesforce (Apex, LWC), Maven, Git, VS Code  
+- ⚙️ **Frameworks & Tools**: Salesforce (Apex, LWC, Marketing Cloud, B2C, and Admin functionalities), Maven, Git, VS Code  
 - 🌐 **Interests**: Web development, API design, system architecture, open source  
 
 ---
@@ -46,7 +46,7 @@ I’m a dedicated developer with a strong foundation in Computer Science and rea
 
 ## 🧩 About Me
 
-- 🧠 Experienced in <strong>Java, Python, Salesforce (Apex/LWC), HTML, and CSS</strong>
+- 🧠 Experienced in <strong>Java, Python, Salesforce (Apex/LWC,Marketing Cloud, B2C, and Admin functionalities), HTML, and CSS</strong>
 - 🎓 Computer Science graduate with a strong foundation in software engineering
 - 🛠️ Building robust backend systems, scalable APIs, and user-friendly web apps
 - 💡 Passionate about clean code, best practices, and continuous learning
@@ -56,7 +56,7 @@ I’m a dedicated developer with a strong foundation in Computer Science and rea
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -91,11 +91,6 @@ I’m a dedicated developer with a strong foundation in Computer Science and rea
   <a href="https://github.com/arjunnbharath">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.hackerrank.com/profile/arjun200118bhar1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-  <a href="https://www.leetcode.com/arjun_bharath">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
   <a href="https://discord.com/users/its.me.arjun">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
