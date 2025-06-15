@@ -10,15 +10,14 @@
 <div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
   <h1 style="margin: 0;">Hi 👋, I'm Arjun Bharath S R</h1>
 </div>
-<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
-
+<h3 align="center">Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-💻 Software Engineer | 🌱 Lifelong Learner | 🌐 Open Source Contributor  
+💻 Developer | Lifelong Learner | 🌐 Open Source Contributor  
 </p>
 
 <p align="center">
-I’m a software developer with a solid Computer Science background and hands-on experience building scalable and efficient solutions. I specialize in Java and Python, with front-end skills in HTML and CSS, and extensive experience in Salesforce — including Apex, LWC, Marketing Cloud, B2C, and Admin functionalities. I’m passionate about clean code, automation, and system design.
+ɪ'ᴍ ᴀ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ sᴛʀᴏɴɢ ғᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ sᴄᴀʟᴀʙʟᴇ, ᴇғғɪᴄɪᴇɴᴛ sʏsᴛᴇᴍs. ɪ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴊᴀᴠᴀ ᴀɴᴅ ᴘʏᴛʜᴏɴ, ᴡɪᴛʜ ғʀᴏɴᴛ-ᴇɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ʜᴛᴍʟ ᴀɴᴅ ᴄss, ᴀɴᴅ ʜᴀɴᴅs-ᴏɴ ᴇxᴘᴇʀᴛɪsᴇ ɪɴ sᴀʟᴇsғᴏʀᴄᴇ — ɪɴᴄʟᴜᴅɪɴɢ ᴀᴘᴇx, ʟᴡᴄ, ᴍᴀʀᴋᴇᴛɪɴɢ ᴄʟᴏᴜᴅ, ʙ𝟸ᴄ, ᴀɴᴅ ᴀᴅᴍɪɴ. ɪ’ᴍ ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴄʟᴇᴀɴ ᴄᴏᴅᴇ, ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ, ᴀɴᴅ sʏsᴛᴇᴍ ᴅᴇsɪɢɴ.
 </p>
 
 ---
