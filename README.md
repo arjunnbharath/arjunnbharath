@@ -10,7 +10,7 @@
 <div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
   <h1 style="margin: 0;">ʜɪ👋 ɪ'ᴍ ᴀʀᴊᴜɴ ʙʜᴀʀᴀᴛʜ s ʀ</h1>
 </div>
-<h3 align="center">Software Developer from India 🇮🇳</h3>
+<h3 align="center">Software Developer from India</h3>
 
 <p align="center">
 💻 Software Engineer | 🚀 Problem Solver | 🛠️ Tech Enthusiast
