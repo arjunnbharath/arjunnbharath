@@ -28,18 +28,6 @@
 - ⚙️ **Frameworks & Tools**: Salesforce (Apex, LWC, Marketing Cloud, B2C, and Admin functionalities), Maven, Git, VS Code  
 - 🌐 **Interests**: Web development, API design, system architecture, open source  
 
----
-
-### 💬 Ask Me About
-
-+ HTML/CSS
-+ Java Development
-+ Salesforce (Apex & LWC)
-+ Python Scripting
-+ Backend System Design
-
- 
-</p>
 
 ---
 
