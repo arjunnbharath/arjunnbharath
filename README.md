@@ -1,12 +1,11 @@
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div style="position: fixed; top: 0; left: 0; width: 100%; display: flex; justify-content: center; align-items: flex-start; z-index: 9999;">
   <img src="dd-ezgif.com-video-to-gif-converter.gif" alt="Animated GIF" style=" height: 00PX; width: 1200px">
 </div>
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
 <div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
   <h1 style="margin: 0;">ʜɪ👋 ɪ'ᴍ ᴀʀᴊᴜɴ ʙʜᴀʀᴀᴛʜ s ʀ</h1>
 </div>
