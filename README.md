@@ -6,89 +6,37 @@
 
 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
-<div align="center" style="display: inline-block; border-bottom: 3px solid #4FC3F7; padding-bottom: 5px;">
-  <h1 style="margin: 0;">ʜɪ👋 ɪ'ᴍ ᴀʀᴊᴜɴ ʙʜᴀʀᴀᴛʜ s ʀ</h1>
-</div>
-<h3 align="center">Software Developer from India</h3>
+# Arjun Bharath S R
+**Software Developer · India**
 
-<p align="center">
-💻 Software Engineer | 🚀 Problem Solver | 🛠️ Tech Enthusiast
-</p>
-
-<p align="center">
-ɪ'ᴍ ᴀ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ sᴛʀᴏɴɢ ғᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ sᴄᴀʟᴀʙʟᴇ, ᴇғғɪᴄɪᴇɴᴛ sʏsᴛᴇᴍs. ɪ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴊᴀᴠᴀ ᴀɴᴅ ᴘʏᴛʜᴏɴ, ᴡɪᴛʜ ғʀᴏɴᴛ-ᴇɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ʜᴛᴍʟ ᴀɴᴅ ᴄss, ᴀɴᴅ ʜᴀɴᴅs-ᴏɴ ᴇxᴘᴇʀᴛɪsᴇ ɪɴ sᴀʟᴇsғᴏʀᴄᴇ — ɪɴᴄʟᴜᴅɪɴɢ ᴀᴘᴇx, ʟᴡᴄ, ᴍᴀʀᴋᴇᴛɪɴɢ ᴄʟᴏᴜᴅ, ʙ𝟸ᴄ, ᴀɴᴅ ᴀᴅᴍɪɴ. ɪ’ᴍ ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴄʟᴇᴀɴ ᴄᴏᴅᴇ, ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ, ᴀɴᴅ sʏsᴛᴇᴍ ᴅᴇsɪɢɴ.
-</p>
+CS graduate building scalable systems. Specialized in Java, Python, and Salesforce — Apex, LWC, Marketing Cloud, B2C. Into AI prompting, vibe coding, clean code, and system design.
 
 ---
 
-### 🔧 Tech Focus
-
-- 🧠 **Languages**: Java, Python, JavaScript, HTML, CSS  
-- ⚙️ **Frameworks & Tools**: Salesforce (Apex, LWC, Marketing Cloud, B2C, and Admin functionalities), Maven, Git, VS Code  
-- 🌐 **Interests**: Web development, API design, system architecture, open source  
-
-
----
-
-## 🧩 About Me
-
-- 🧠 Experienced in <strong>Java, Python, Salesforce (Apex/LWC,Marketing Cloud, B2C, and Admin functionalities), HTML, and CSS</strong>
-- 🎓 Computer Science graduate with a strong foundation in software engineering
-- 🛠️ Building robust backend systems, scalable APIs, and user-friendly web apps
-- 💡 Passionate about clean code, best practices, and continuous learning
-- 🌟 Actively contributing to the open-source community
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Tech Stack
+### What's here
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+Backend tools and APIs in Java & Python · Clean UIs in HTML/CSS · Salesforce Apex, LWC & Marketing Cloud · AI prompting experiments · Reusable code snippets
 
 ---
 
-## 📌 What You'll Find Here
+### Connect
 
-✅ <strong>Java & Python Projects</strong> – Backend tools, APIs, data processing  
-✅ <strong>Web Dev Work</strong> – Clean, responsive UIs with HTML/CSS  
-✅ <strong>Salesforce</strong> – Apex classes, triggers, and LWC components  
-✅ <strong>Open Source Contributions</strong> – Bug fixes, features & code reviews  
-✅ <strong>Code Snippets</strong> – Well-structured and reusable pieces of logic  
-
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:your-arjun200118bharath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/arjun-bharath-sr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://discord.com/users/its.me.arjun">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
- 
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjun200118bharath@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-bharath-sr/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/its.me.arjun)
 
 ---
 
-<p align="center">
-<em>"There’s nothing more powerful than a good story." – Tyrion Lannister</em>
-</p>
-
-
-
-
-
-
-
+<sub><i>"There's nothing more powerful than a good story." — Tyrion Lannister</i></sub>
