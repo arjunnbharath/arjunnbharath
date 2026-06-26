@@ -26,8 +26,7 @@ CS graduate building scalable systems. Specialized in Java, Python, and Salesfor
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Data%20Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-0A66C2?style=flat-square&logo=arduino&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ---
 
 ### What's here
